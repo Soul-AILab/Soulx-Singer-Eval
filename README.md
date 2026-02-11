@@ -1,6 +1,16 @@
-# SoulX-Singer-Eval
+<div align="center">
+	<h1>🎤 SoulX-Singer-Eval</h1>
+	<p>
+		Evaluation suite for zero-shot Singing Voice Synthesis (SVS) systems, covering aesthetic appeal, signal quality, pronunciation accuracy, speaker similarity, and melodic precision.
+	</p>
+	<p>
+		<a href="https://huggingface.co/datasets/Soul-AILab/SoulX-Singer-Eval-Dataset"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Eval--Dataset-Hugging%20Face-ffda16" alt="Eval Dataset"></a>
+		<a href="https://arxiv.org/abs/2602.07803"><img src="https://img.shields.io/badge/arXiv-2602.07803-b31b1b" alt="SoulX-Singer arXiv"></a>
+		<a href="https://github.com/Soul-AILab/SoulX-Singer"><img src="https://img.shields.io/badge/SoulX--Singer-Repository-black" alt="SoulX-Singer Repo"></a>
+	</p>
+</div>
 
-This repository provides an evaluation suite for zero-shot Singing Voice Synthesis (SVS) systems, covering aesthetic appeal, signal quality, pronunciation accuracy, speaker similarity, and melodic precision.
+---
 
 ## 📊 Metrics Overview
 
