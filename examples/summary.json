@@ -1,0 +1,4 @@
+{"txt": "过了爱做梦的年纪轰轰烈烈不如平静", "ref_fn": "./examples/groundtruth/groundtruth1.wav", "gen_fn": "./examples/generated/generated1.wav", "prompt_fn": "./examples/prompt/prompt1.wav", "language": "Chinese", "prompt_language": "Chinese"}
+{"txt": "我知道风里有诗句不知道你", "ref_fn": "./examples/groundtruth/groundtruth2.wav", "gen_fn": "./examples/generated/generated2.wav", "prompt_fn": "./examples/prompt/prompt2.wav", "language": "Chinese", "prompt_language": "Chinese"}
+{"txt": "and spaces between us you have come to show you", "ref_fn": "./examples/groundtruth/groundtruth3.wav", "gen_fn": "./examples/generated/generated3.wav", "prompt_fn": "./examples/prompt/prompt3.wav", "language": "English", "prompt_language": "English"}
+{"txt": "just like before it's yesterday once more", "ref_fn": "./examples/groundtruth/groundtruth4.wav", "gen_fn": "./examples/generated/generated4.wav", "prompt_fn": "./examples/prompt/prompt4.wav", "language": "English", "prompt_language": "English"}
